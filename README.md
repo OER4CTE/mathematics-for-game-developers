@@ -6,4 +6,4 @@ No additional restrictions — You may not apply legal terms or technological me
 
 Materials with user interface considerations for teachers: https://OER4CTE.org
 
-Contact information: KellyCooper@OER4CTE.org
+Contact: KellyCooper@OER4CTE.org
